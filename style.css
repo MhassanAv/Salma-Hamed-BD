@@ -265,7 +265,7 @@ nav ul li a:hover::after{
 .subherotext h1{
     color: var(--salmaBlue);
     font-family: Nasa;
-    font-size:40px;
+    font-size:38px;
 }
 .subherotext p{
     color: #fff;
